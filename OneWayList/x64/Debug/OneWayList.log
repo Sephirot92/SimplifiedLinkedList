@@ -1,0 +1,5 @@
+﻿  OneWayList.cpp
+C:\Users\lczap\source\repos\OneWayList\OneWayList\OneWayList.cpp(30,35): warning C4101: "fail": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\lczap\source\repos\OneWayList\OneWayList\OneWayList.cpp(54,35): warning C4101: "fail": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\lczap\source\repos\OneWayList\OneWayList\OneWayList.cpp(232,39): warning C4101: "fail": lokalna zmienna, do której nie istnieje odwołanie
+  OneWayList.vcxproj -> C:\Users\lczap\source\repos\OneWayList\x64\Debug\OneWayList.exe
