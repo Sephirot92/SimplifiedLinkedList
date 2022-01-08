@@ -39,6 +39,7 @@ string getStringData(string typeOfData) {
     return stringData;
 }
 
+//This method retrieves integers and catches possible errors
 int getIntegerData(string typeOfData) {
     bool isCorrectDataFormat = true;
     int intData;
@@ -63,6 +64,7 @@ int getIntegerData(string typeOfData) {
     return intData;
 }
 
+//This method adds new person to the list. 
 void addNewPerson(Osoba* osoba) {
     string name, surname;
     int age;
