@@ -14,7 +14,7 @@ bool isNullOrEmpty(Osoba* osoba) {
     }
     return false;
 }
-
+// komentarz dodaje do projektu Lukasza - Dawid
 string getStringData(string typeOfData) {
     bool isCorrectDataFormat = true;
     string stringData;
