@@ -2,6 +2,8 @@
 #include <sstream>
 using namespace std;
 
+//jednorożce są urocze
+
 struct Osoba {
     string imie = "", nazwisko = "";
     int wiek;
